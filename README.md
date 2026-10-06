@@ -1,4 +1,4 @@
-<img src="portada2.jpg" alt="Banner" height="200" />
+<img src="portada2.jpg" alt="Banner" height="200" width="100%"/>
 <div align="center">
 # Hola, soy Geovany 👋
 ### Full-stack developer · México 🇲🇽
