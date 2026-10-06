@@ -1,8 +1,5 @@
-<div align="center" height="100px">
-  <img src="portada1.jpg" alt="Banner de Geovany"/>
-</div>
 <div align="center">
-
+<img src="portada1.jpg" alt="Banner de Geovany"/>
 # Hola, soy Geovany 👋
 ### Full-stack developer · México 🇲🇽
 
