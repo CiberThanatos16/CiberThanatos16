@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="assets/banner.png" alt="Banner de Geovany" width="100%" />
+</div>
+<div align="center">
 
 # Hola, soy Geovany 👋
 ### Full-stack developer · México 🇲🇽
