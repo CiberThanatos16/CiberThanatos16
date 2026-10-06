@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**CiberThanatos16/CiberThanatos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Geovany 👋
+### Full-stack developer · México 🇲🇽
 
-Here are some ideas to get you started:
+Construyo apps de la idea al deploy. Abierto a trabajo remoto y freelance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🔭 En qué ando
+- Construyendo proyectos con React, Node y Python
+- Explorando IA aplicada (RAG, agentes, LLMs)
+
+## 🛠️ Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+## 📫 Contacto
+- LinkedIn: [tu-usuario](https://linkedin.com/in/tu-usuario)
+- Correo: tu@correo.com
