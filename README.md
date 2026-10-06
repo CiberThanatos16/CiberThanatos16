@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cambia banner.png por el nombre real de tu imagen -->
-<img src="Portada.jpg" alt="Banner de Geovany" heigth="200" width="100%" />
+<img src="Portada.jpg" alt="Banner de Geovany" height="200" width="100%" />
 
 # Hola, soy Geovany 👋
 
