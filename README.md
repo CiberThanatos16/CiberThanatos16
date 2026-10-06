@@ -1,5 +1,5 @@
 <div align="center" height="100px">
-  <img src="portada1.jpg" alt="Banner de Geovany" height="100%"/>
+  <img src="portada1.jpg" alt="Banner de Geovany"/>
 </div>
 <div align="center">
 
