@@ -1,6 +1,6 @@
 <img src="Portada.jpg" alt="Banner" height="200" width="100%"/>
 <div align="center">
-# <h2> Hola, soy Geovany 👋</h2>
+<h2> Hola, soy Geovany 👋</h2>
 <h3>Full-stack developer · México 🇲🇽 </h3>
 
 Construyo apps de la idea al deploy. Abierto a trabajo remoto y freelance.
