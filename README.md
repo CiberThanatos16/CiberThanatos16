@@ -27,8 +27,7 @@ Construyo apps de la idea al deploy: interfaces con React, APIs con Node y Pytho
 
 > Reemplaza los links de cada proyecto por los nombres reales de tus repos.
 
----
-
+--
 ## 🛠️ Stack
 
 **Frontend**
