@@ -83,10 +83,10 @@ Construyo apps de la idea al deploy: interfaces con React, APIs con Node y Pytho
 
 ---
 
-## 🛠️ Stack
+<h3>## 🛠️ Stack</h3>
 
 <div align="center">
-### 🎯 Mi stack principal
+## 🎯 Mi stack principal
 
   <p>
     <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" />
