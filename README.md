@@ -85,6 +85,7 @@ Construyo apps de la idea al deploy: interfaces con React, APIs con Node y Pytho
 
 ## 🛠️ Stack
 
+<div aling="center">
 ### 🎯 Mi stack principal
 
 <p>
@@ -134,7 +135,7 @@ Construyo apps de la idea al deploy: interfaces con React, APIs con Node y Pytho
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
-
+</div>
 ---
 
 ## 🔭 En qué ando
