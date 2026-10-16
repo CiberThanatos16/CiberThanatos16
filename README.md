@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="gif1.gif" alt="Banner de Geovany" height="200" width="100%" />
+<img src="gif2.gif" alt="Banner de Geovany" height="200" width="100%" />
 
 # Hola, soy Geovany 👋
 
